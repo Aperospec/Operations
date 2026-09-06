@@ -6,5 +6,4 @@ This is an independent, project-neutral skill. Its entry point is [SKILL.md](ski
 
 Project objectives, audiences, styles, formats, research conclusions, operational targets and permissions belong to the project and are supplied per task. They must not become defaults in this skill or its supporting files.
 
-This first independent edition is an alpha. Structural validation and limited forward tasks establish initial evidence, not comprehensive mastery of every discipline named in its scope.
-
+This remains an alpha. The methods distinguish service outcomes, repeat-use opportunities, flow and capacity, assignment and exposure, and future resource costs. Structural validation and limited independent tasks with synthetic data establish bounded evidence, not demonstrated field impact or comprehensive mastery of every discipline named in its scope.
