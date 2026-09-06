@@ -1,0 +1,4 @@
+interface:
+  display_name: "Operations Craft"
+  short_description: "Demand, capacity, measurement, experiments and economics."
+  default_prompt: "Use $operations-craft to complete the professional work required by this project."
